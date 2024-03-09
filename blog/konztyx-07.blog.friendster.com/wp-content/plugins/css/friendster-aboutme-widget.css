@@ -1,0 +1,9 @@
+#about-me {width:100%; margin:0 !important;padding:0 !important;text-align:center;}
+#about-me h4 {text-align:left !important;}
+#about-thumbnail {width:200px; text-align:center;margin:0 auto !important; overflow:hidden;}
+#about-thumbnail img {height:150px; margin: 0 auto; padding:0;}
+#about-info {margin:0 !important; padding:0 !important; text-align:left !important;}
+#about-info ul {margin:0 !important; padding:0 !important;}
+#about-info ul li {margin:0 !important; padding:0 !important; border: 0 !important;}
+#about-info ul li a {display: inline;}
+#aboutme-link {text-align: right; margin: 10px 0 0 0 !important;}
